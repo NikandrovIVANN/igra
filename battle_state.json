@@ -1,0 +1,64 @@
+{
+  "round_number": 1,
+  "party": [
+    {
+      "name": "Dimasik",
+      "level": 1,
+      "hp": 150,
+      "mp": 15,
+      "strength": 80,
+      "agility": 40,
+      "intelligence": 20,
+      "max_hp": 150,
+      "max_mp": 30,
+      "effects": [],
+      "skills_used": 0,
+      "is_silenced": false,
+      "skill_cooldown": 2
+    },
+    {
+      "name": "Vanek",
+      "level": 1,
+      "hp": 0,
+      "mp": 100,
+      "strength": 20,
+      "agility": 30,
+      "intelligence": 85,
+      "max_hp": 80,
+      "max_mp": 100,
+      "effects": [],
+      "skills_used": 0,
+      "is_silenced": false,
+      "skill_cooldown": 0
+    },
+    {
+      "name": "Bair",
+      "level": 1,
+      "hp": 90,
+      "mp": 120,
+      "strength": 25,
+      "agility": 35,
+      "intelligence": 75,
+      "max_hp": 90,
+      "max_mp": 120,
+      "effects": [],
+      "skills_used": 0,
+      "is_silenced": false,
+      "skill_cooldown": 0
+    }
+  ],
+  "boss": {
+    "name": "Драконий Повелитель",
+    "level": 15,
+    "log": [],
+    "max_hp": 400,
+    "hp": 0,
+    "max_mp": 200,
+    "mp": 200,
+    "strength": 60,
+    "agility": 30,
+    "intelligence": 40,
+    "effects": []
+  },
+  "winner": "party"
+}

@@ -1,19 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="70b644df-57ed-48ec-b865-3a68ae653d1b" name="Changes" comment="" />
+    <list default="true" id="70b644df-57ed-48ec-b865-3a68ae653d1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/partyvsboss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/battle/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/battle/battle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/battle/effects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/battle/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/battle/strategies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/battle/turn_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/characters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/characters/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/characters/healer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/characters/mage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/characters/warrior.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/descriptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/entities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/mixins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/items/inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/items/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="33N9wzAJJt7YmLmDzFucx55xaZ1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,8 +59,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -41,5 +82,16 @@
       <updated>1759146905587</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
